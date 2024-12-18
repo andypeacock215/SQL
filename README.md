@@ -2,7 +2,7 @@ Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
 
 # SQL
 
-This is work that I did in Excel during my Data Technician Skills Bootcamp.
+This is work that I did in MySQL during my Data Technician Skills Bootcamp.
 
 This work used the world_db dataset embedded in this SQL file: [world_db.sql](https://www.icloud.com/iclouddrive/027C0pu9v03pA0oqouxjBFbMw#world_db_(1))
 
